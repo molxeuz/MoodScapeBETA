@@ -7,7 +7,7 @@ MoodScape es una aplicación de escritorio interactiva que genera paisajes virtu
 - Mensajes emergentes con descripciones de entornos relajantes.
 - Ventana interactiva creada con `tkinter`.
 
-## Guia General de archivos
+## Guia archivos
 
 MoodScape/
 ├── assets/               # Aquí irán las imágenes, sonidos o recursos visuales futuros
