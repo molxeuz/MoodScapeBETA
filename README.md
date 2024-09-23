@@ -7,6 +7,18 @@ MoodScape es una aplicación de escritorio interactiva que genera paisajes virtu
 - Mensajes emergentes con descripciones de entornos relajantes.
 - Ventana interactiva creada con `tkinter`.
 
+## Guia General de archivos
+
+MoodScape/
+├── assets/               # Aquí irán las imágenes, sonidos o recursos visuales futuros
+├── src/                  # Código fuente de la aplicación
+│   ├── __init__.py       # Archivo de inicialización de Python
+│   ├── app.py            # Código principal de la aplicación
+├── README.md             # Descripción del proyecto
+├── requirements.txt      # Lista de dependencias (librerías necesarias)
+├── LICENSE               # Archivo de licencia (puedes usar MIT)
+└── .gitignore            # Archivos que Git debe ignorar
+
 ## Instalación
 
 1. Clona este repositorio:
