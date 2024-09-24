@@ -19,6 +19,11 @@ MoodScape/
 ├── LICENSE               # Archivo de licencia (puedes usar MIT)
 └── .gitignore            # Archivos que Git debe ignorar
 
+## Documentacion primera etapa
+
+[Descargar el PDF](C:\Users\Usuario\Desktop\MoodScapeBETA.pdf)
+[Ver la documentación en PDF](./MoodScapeBETA.pdf)
+
 ## Instalación
 
 1. Clona este repositorio:
