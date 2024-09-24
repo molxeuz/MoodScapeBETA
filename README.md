@@ -10,19 +10,14 @@ MoodScape es una aplicación de escritorio interactiva que genera paisajes virtu
 ## Guia archivos
 
 MoodScape/
-├── assets/               # Aquí irán las imágenes, sonidos o recursos visuales futuros
-├── src/                  # Código fuente de la aplicación
-│   ├── __init__.py       # Archivo de inicialización de Python
-│   ├── app.py            # Código principal de la aplicación
-├── README.md             # Descripción del proyecto
-├── requirements.txt      # Lista de dependencias (librerías necesarias)
-├── LICENSE               # Archivo de licencia (puedes usar MIT)
-└── .gitignore            # Archivos que Git debe ignorar
-
-## Documentacion primera etapa
-
-[Descargar el PDF](C:\Users\Usuario\Desktop\MoodScapeBETA)
-[Ver la documentación en PDF](./MoodScapeBETA)
+├── assets/
+├── src/
+│   ├── __init__.py
+│   ├── app.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── .gitignore
 
 ## Instalación
 
