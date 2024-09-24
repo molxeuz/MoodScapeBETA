@@ -21,8 +21,8 @@ MoodScape/
 
 ## Documentacion primera etapa
 
-[Descargar el PDF](C:\Users\Usuario\Desktop\MoodScapeBETA.pdf)
-[Ver la documentación en PDF](./MoodScapeBETA.pdf)
+[Descargar el PDF](C:\Users\Usuario\Desktop\MoodScapeBETA)
+[Ver la documentación en PDF](./MoodScapeBETA)
 
 ## Instalación
 
